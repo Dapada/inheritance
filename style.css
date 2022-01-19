@@ -1,0 +1,16 @@
+
+body {
+	color: red;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+
+p {
+	color: blue;
+}
+
+
+div > h2 {
+	color: green;
+}
